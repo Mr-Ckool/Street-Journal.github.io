@@ -6,7 +6,6 @@ body, html {
   background-image: url('blackground.png');
   height: 100%;
   width: 100%;
-  position: relative;
   background-size: cover;
   position: relative;
   color: white;
